@@ -1,5 +1,5 @@
 FooConfig:
   Foo: Server foo
   DemoConfigClient:
-    Message: Server test message
+    Massage: Server test message
   Name: Server my name

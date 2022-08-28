@@ -1,4 +1,5 @@
-foo: foo text
-democonfigclient: 
- message: hello config server
-name: vahid tajari
+FooConfig:
+  Foo: Server foo
+  DemoConfigClient:
+    Message: Server test message
+  Name: Server my name

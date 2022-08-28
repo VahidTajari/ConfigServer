@@ -1,3 +1,4 @@
 foo: foo text
 democonfigclient: 
  message: hello config server
+name: vahid
